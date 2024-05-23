@@ -6,11 +6,11 @@
 
 ### Without Obfuscation 🔓
 
-![image](https://github.com/IncasedName/Python-Obfuscator/deob.png)
+![image](https://raw.githubusercontent.com/IncasedName/python-obfuscator/main/deob.png)
 
 ### With Obfuscation 🔐
 
-![image](https://github.com/IncasedName/Python-Obfuscator/obf.png)
+![image](https://raw.githubusercontent.com/IncasedName/python-obfuscator/main/obf.png)
 
 ## Guide
 
